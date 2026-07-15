@@ -28,3 +28,5 @@ COACHTECH 教材 Tutorial 9-3「データベース操作ハンズオン演習」
 
 ## 動作確認
 ブラウザで http://localhost/products にアクセスして、商品一覧が表示されれば成功
+<img width="445" height="250" alt="image" src="https://github.com/user-attachments/assets/8ec81c67-00a3-4b5f-985e-063c23745e3b" />
+
